@@ -1,2 +1,2 @@
-# gcp-compute-vm
+# Google compute VM
 Compute VM 
